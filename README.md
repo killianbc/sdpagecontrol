@@ -2,4 +2,4 @@
 Stream Deck page control
 
 # Silent mode
-run with terminal "sdpagecontrol.exe /<page number/>"
+run with terminal /"sdpagecontrol.exe /<page number/>/"
